@@ -1,3 +1,2 @@
-Credentials 
-User Name : admin
-Password : admin
+Food waste management is simple console based application
+
